@@ -1,0 +1,5 @@
+Species,term,df.residual,df,statistic,p.value
+Seabream,"LPUE ~ Lags(LPUE, 1:1) + Lags(Escapes, 1:1)",27,NA,NA,NA
+Seabream,"LPUE ~ Lags(LPUE, 1:1)",28,-1,15.38933422611235,5.424811879206026e-4
+Seabass,"LPUE ~ Lags(LPUE, 1:4) + Lags(Escapes, 1:4)",18,NA,NA,NA
+Seabass,"LPUE ~ Lags(LPUE, 1:4)",22,-4,1.0361976889969318,0.4157892996701435
